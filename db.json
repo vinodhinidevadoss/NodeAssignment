@@ -1,0 +1,124 @@
+{
+    "Device": [
+        {
+            "id": "1",
+            "productName": "Samsung",
+            "price": 5000,
+            "inTheBox": "Handset, Battery, Charger, User Manual, Headset,  Guard",
+            "modelNumber": "ERA-2V",
+            "size": "5 inch",
+            "category": "mobile",
+            "color": "black",
+            "touchScreen": "yes",
+            "image": "http://localhost:4000/images/mobile.jpeg"
+        },
+        {
+            "id": 2,
+            "productName": "Samsung Galaxy",
+            "price": 70000,
+            "inTheBox": "Handset, Battery, Charger, User Manual, Headset, Screen Guard",
+            "modelNumber": "ERA-2V",
+            "size": "9 inch",
+            "category": "tablet",
+            "color": "black",
+            "touchScreen": "yes",
+            "image": "http://localhost:4000/images/mobile.jpeg"
+        },
+        {
+            "id": 3,
+            "productName": "Lenovo",
+            "price": 70000,
+            "inTheBox": "Handset, Battery, Charger, User Manual, Headset, Screen Guard",
+            "modelNumber": "ERA-2V",
+            "size": "11 inch",
+            "category": "tablet",
+            "color": "pink",
+            "touchScreen": "yes",
+            "image": "http://localhost:4000/images/mobile.jpeg"
+        },
+        {
+            "id": 4,
+            "productName": "Mi",
+            "price": 70000,
+            "inTheBox": "Handset, Battery, Charger, User Manual, Headset, Screen Guard",
+            "modelNumber": "ERA-2V",
+            "size": "11 inch",
+            "category": "tablet",
+            "color": "pink",
+            "touchScreen": "yes",
+            "image": "http://localhost:4000/images/mobile.jpeg"
+        },
+        {
+            "id": 5,
+            "productName": "Sony",
+            "price": 70000,
+            "inTheBox": "Handset, Battery, Charger, User Manual, Headset, Screen Guard",
+            "modelNumber": "ERA-2V",
+            "size": "11 inch",
+            "category": "mobile",
+            "color": "pink",
+            "touchScreen": "yes",
+            "image": "http://localhost:4000/images/mobile.jpeg"
+        },
+        {
+            "id": 6,
+            "productName": "One Plus",
+            "price": 70000,
+            "inTheBox": "Handset, Battery, Charger, User Manual, Headset, Screen Guard",
+            "modelNumber": "ERA-2V",
+            "size": "11 inch",
+            "category": "mobile",
+            "color": "pink",
+            "touchScreen": "yes",
+            "image": "http://localhost:4000/images/mobile.jpeg"
+        },
+        {
+            "id": 7,
+            "productName": "Dell",
+            "price": 70000,
+            "inTheBox": "Handset, Battery, Charger, User Manual, Headset, Screen Guard",
+            "modelNumber": "ERA-2V",
+            "size": "11 inch",
+            "category": "Laptop",
+            "color": "pink",
+            "touchScreen": "yes",
+            "image": "http://localhost:4000/images/mobile.jpeg"
+        },
+        {
+            "id": 8,
+            "productName": "Samsung",
+            "price": 5000,
+            "inTheBox": "Handset, Battery, Charger, User Manual, Headset,  Guard",
+            "modelNumber": "ERA-2V",
+            "size": "5 inch",
+            "category": "Laptop",
+            "color": "white",
+            "touchScreen": "yes",
+            "image": "http://localhost:4000/images/mobile.jpeg"
+        },
+        {
+            "id": 9,
+            "productName": "Samsung",
+            "price": 5000,
+            "inTheBox": "Handset, Battery, Charger, User Manual, Headset,  Guard",
+            "modelNumber": "ERA-2V",
+            "size": "5 inch",
+            "category": "mobile",
+            "color": "white",
+            "touchScreen": "yes",
+            "image": "http://localhost:4000/images/mobile.jpeg"
+        },
+        {
+            "id": 10,
+            "productName": "Samsung",
+            "price": 5000,
+            "inTheBox": "Handset, Battery, Charger, User Manual, Headset,  Guard",
+            "modelNumber": "ERA-2V",
+            "size": "5 inch",
+            "category": "mobile",
+            "color": "white",
+            "touchScreen": "yes",
+            "image": "http://localhost:4000/images/mobile.jpeg"
+        }
+    ]
+}
